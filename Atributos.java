@@ -4,7 +4,7 @@ public class Atributos {
 
     public static void main(String[] args) {
         
-        int x; //Entero: 10,20,30.....(no són decimales)
+        int x; //Entero: 10,20,30.....(no són decimales).
         x = 100;
         int y;
         y = 50;
