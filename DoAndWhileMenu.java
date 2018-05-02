@@ -1,4 +1,4 @@
-package pkgdo.and.pkgwhile.menu;
+
 import java.util.Scanner;
 /**
  *
